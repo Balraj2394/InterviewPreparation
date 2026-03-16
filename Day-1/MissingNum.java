@@ -2,7 +2,6 @@ import java.util.*;
 public class MissingNum{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
-        System.out.println("No.of.Array");
         int n=sc.nextInt();
         int[] arr=new int[n];
         int sum=0,x=n+1;
